@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<purchaseOrder id="ABC123">
+	<customer id="DEF456">
+		<!--  <name>MegaCorp</name> -->
+		<address postcode="BT37 ABC">
+			<city>Beflast</city>
+			<street no="10">Arcatia Road</street>
+		</address>
+		<paymentOptions>
+			<category>Retail</category>
+			<daysToPay>30</daysToPay>
+			<creditLimit>20000</creditLimit>
+		</paymentOptions>
+	</customer>
+	<itemsList>
+		<item index="1" id="12" quantity="12">
+			<description>Hard Disk</description>
+		</item>
+		<item index="2" id="08" quantity="6">
+			<description>Keyboard</description>
+		</item>
+		<item index="3" id="72" quantity="7">
+			<description>Monitor</description>
+		</item>
+		<item index="4" id="34" quantity="8">
+			<description>Mouse</description>
+		</item>
+		<item index="5" id="58" quantity="3">
+			<description>Graphics Card</description>
+		</item>
+		<item index="6" id="99" quantity="1">
+			<description>CD Drive</description>
+		</item>
+		<item index="7" id="23" quantity="8">
+			<description>DVD Drive</description>
+		</item>
+		<item index="8" id="19" quantity="5">
+			<description>TV Card</description>
+		</item>
+		<item index="9" id="26" quantity="9">
+			<description>Modem</description>
+		</item>
+		<item index="10" id="18" quantity="8">
+			<description>Hub</description>
+		</item>
+	</itemsList>
+</purchaseOrder>

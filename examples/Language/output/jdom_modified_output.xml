@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This document describes a customer--><Customer><Name title="Mrs"><Forename>Jane</Forename><Surname>Smith</Surname></Name><Address postcode="BT37 ABC"><Street number="27">Connolly Street</Street><City>Dublin</City></Address></Customer>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myapp>
+	<resources>
+		<threads>7</threads>
+		<server-ip>120.153.72.208</server-ip>
+		<cache size="10"/>
+	</resources>
+	<reporting>
+		<error-log do-logging="true" level="high">
+			<output destination="file">/usr/bin/myapp/log1.lg</output>
+		</error-log>
+		<debug do-debug="true" level="low">
+			<output destination="console"/>
+		</debug>
+	</reporting>
+	<accounts>
+		<user role="administrator">
+			<id>dmccotter</id>
+			<password>chdje1d4</password>
+		</user>
+		<user role="power-user">
+			<id>nmorris</id>
+			<password>ahkdhsh32</password>
+		</user>
+		<user role="end-user">
+			<id>dbole</id>
+			<password>wn1hgb</password>
+		</user>
+		<user role="end-user">
+			<id>soneill</id>
+			<password>mary123</password>
+		</user>
+	</accounts>
+</myapp>

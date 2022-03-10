@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config-file><accounts><user role="power-user"><id>Dave</id><password>wn1hgb</password></user><user role="end-user"><id>Fred</id><password>010978</password></user></accounts><reporting><error-log do-logging="on" level="high"><output destination="file">errors.txt</output></error-log><debug-log do-debug="off" level="medium"><output destination="file">debug.txt</output></debug-log></reporting><resources><threads>7</threads><server-ip>192.168.1.36</server-ip><cache size="32" /></resources></config-file>

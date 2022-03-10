@@ -1,0 +1,12 @@
+perfect/numbers/PerfectNumberTest.java
+ perfect.numbers.PerfectNumberTest
+linked/list/LinkedListTest.java
+ linked.list.LinkedListTest
+game/of/life/CellTest.java
+ game.of.life.CellTest
+poker/hands/CardTest.java
+ poker.hands.CardTest
+poker/hands/PokerHandTest.java
+ poker.hands.PokerHandTest
+imperial/currency/AmountTest.java
+ imperial.currency.AmountTest
